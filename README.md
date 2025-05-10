@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 [![instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram/sawnedcom.official)
 
-[![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=gruvbox)](https://github.com/sawnedcom/github-readme-stats#gh-dark-mode-only)
+[![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=gruvbox)](https://github.com/sawnedcom/)
 
