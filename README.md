@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #
 
-##### My Skills [ Front End ]
+#### My Skills [ Front End ]
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-##### My Skills [ Back End ]
+#### My Skills [ Back End ]
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-##### Contact Me
+#### Contact Me
 
-[![instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram/)
+[![instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram/sawnedcom.official)
 
-[![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sawnedcom/github-readme-stats#gh-dark-mode-only)
+[![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=gruvbox)](https://github.com/sawnedcom/github-readme-stats#gh-dark-mode-only)
 
