@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github 👋
 
 <!--
 **sawnedcom/sawnedcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on myself, my own website **@sawnedcom**
+- 🌱 I’m currently learning [**Next Js**](https://nextjs.org/)
+
+![good morning](gif/dance.gif)
