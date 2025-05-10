@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 </p>
 
 ##### Contact Me
+
 [![instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram/)
 
-[![Sawnedcom GitHub stats](https://github-readme-stats.vercel.app/api?username=sawnedcom)](https://github.com/sawnedcom/github-readme-stats)
+[![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sawnedcom/github-readme-stats#gh-dark-mode-only)
+
