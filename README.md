@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #
 
-##### My Skills [ Front End ]
+#### My Skills [ Front End ]
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-##### My Skills [ Back End ]
+#### My Skills [ Back End ]
 
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
