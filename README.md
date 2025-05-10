@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on myself, my own website **@sawnedcom**
+- 🔭 I’m currently working on myself, my own website  **@sawnedcom**
 - 🌱 I’m currently learning [**Next Js**](https://nextjs.org/)
 
 ![good morning](gif/dance.gif)
