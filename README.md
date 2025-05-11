@@ -33,6 +33,11 @@ Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience 
   </a>
 </p>
 
+### You can help me by Donating or buying my stuff here
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sawnedcom)
+
+
 [![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=gruvbox)](https://github.com/sawnedcom/)
 ![](https://nirzak-streak-stats.vercel.app/?user=sawnedcom&theme=dark&hide_border=false)<br/>
 
@@ -40,6 +45,3 @@ Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawnedcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## You can help me by Donating or buying my stuff here
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sawnedcom)
