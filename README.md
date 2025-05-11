@@ -1,6 +1,6 @@
 ## Welcome to my Github 👋
 
-Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience since 2021. I specialize in building websites, creating tutorials on web development, and designing intuitive UI/UX experiences. I love turning ideas into clean, functional, and user-friendly web interfaces
+Hello, sawnedcom here, a passionate website developer with 4 years of experience since 2021. I specialize in building websites, creating tutorials on web development, and designing intuitive UI/UX experiences. I love turning ideas into clean, functional, and user-friendly web interfaces
 #
 
 #### My Skills [ Front End ]
