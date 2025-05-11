@@ -43,19 +43,20 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.instagram.com/sawnedcom.official/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/sawnedcom.official/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
   </a>
 </p>
 
-
 [![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=gruvbox)](https://github.com/sawnedcom/)
 ![](https://nirzak-streak-stats.vercel.app/?user=sawnedcom&theme=dark&hide_border=false)<br/>
+
 ---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawnedcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## You can help me by Donating or buying my stuff here
 
- ## 💰 You can help me by Donating or buying my stuff here
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sawnedcom) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sawnedcom)
