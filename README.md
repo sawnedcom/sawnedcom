@@ -1,6 +1,7 @@
 ## Welcome to my Github 👋
 
 Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience since 2021. I specialize in building websites, creating tutorials on web development, and designing intuitive UI/UX experiences. I love turning ideas into clean, functional, and user-friendly web interfaces
+
 #
 
 #### My Skills [ Front End ]
@@ -22,7 +23,7 @@ Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience 
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" style="cursor: default;" />
 </p>
 
-***
+---
 
 #### Social Media
 
@@ -35,19 +36,22 @@ Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience 
   </a>
 </p>
 
+#### Portfolio
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/sawnedcom)
+
+
 #### You can help me by Donating or Buying my stuff here
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sawnedcom)
 
 #### Buy templates website and others. by sawnedcom
-<p align="left">
-  <a href="https://sawnedcom.gumroad.com/">
-    <img src="https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white" />
-  </a>
-</p>
+
+- [Gumroad](https://sawnedcom.gumroad.com/)
+- [Etsy](https://www.etsy.com/shop/sawnedcom)
 
 
-***
+
+---
 
 [![Sawnedcom GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sawnedcom&show_icons=true&theme=gruvbox)](https://github.com/sawnedcom/)
 ![](https://nirzak-streak-stats.vercel.app/?user=sawnedcom&theme=dark&hide_border=false)<br/>
@@ -55,4 +59,3 @@ Hello, I'm Sawnedcom, a passionate website developer with 4 years of experience 
 ---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawnedcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
